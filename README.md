@@ -1,6 +1,6 @@
 # Qt Calculator - Documentation
 
-![Main window](oknoGlowne.png) ![Expanded menu](oknoGlowne_z_menu.png)
+![Main window](mainWindow.png)
 
 ## Features
 - **Mathematical operations**:
